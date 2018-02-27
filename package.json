@@ -85,4 +85,12 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
- 
+ },
+  "repository": "git+https://github.com/Ratismal/blargbot.git",
+  "author": "stupid cat",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ratismal/blargbot/issues"
+  },
+  "homepage": "https://github.com/Ratismal/blargbot#readme"
+}
